@@ -5,7 +5,7 @@
 
 ## 使い方
 
-まず、[インストーラー](https://github.com/user-attachments/files/17304345/aviutl.pro.installer.zip)か[ZIP版](https://github.com/user-attachments/files/17304356/aviutl.pro.zip)のどちらかを[ダウンロード](https://github.com/dostesuto/aviutl-pro/releases/tag/aviutl)します。インストーラーをダウンロードした場合は、まず展開します。次にインストーラーをダブルクリックし、インストールしたい場所を選んでインストールします。
+まず、[インストーラー](https://github.com/dostesuto/aviutl-pro/releases/download/aviutl/aviutl.pro.installer.exe)か[ZIP版](https://github.com/user-attachments/files/17304356/aviutl.pro.zip)のどちらかを[ダウンロード](https://github.com/dostesuto/aviutl-pro/releases/tag/aviutl)します。インストーラーをダウンロードした場合は、インストーラーをダブルクリックし、インストールしたい場所を選んでインストールします。
 ZIP版を選んだ方は、展開し、aviutlsetupフォルダの中にあるaviutldarkをダブルクリックします。
 
 ## 見た目
